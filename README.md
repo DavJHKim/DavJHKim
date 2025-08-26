@@ -7,8 +7,8 @@ I am a Data Science + Economics Alumni @ UC Berkeley, passionate in exploring th
 
 ## 🚀 What I'm Up To
 
-- 📚 Learning deeply about VCSs and working towards AWS Certified Cloud Practitioner Certificate
-- 💻  I recently moved my portfolio to AWS using HTML, CSS, and JavaScript, integrated a visitor counter with DynamoDB, API Gateway, and Lambda in Python, and followed best practices in IaC with Terraform and CI/CD pipelines with GitHub Actions.
+- 📚 Learning deeply about VCSs and working towards the AWS Certified Cloud Practitioner Certificate
+- 💻 Recently completed the Cloud Resume Challenge, using HTML/CSS/JS for the site, AWS (S3, CloudFront, Route 53, Lambda, DynamoDB) for deployment, and Terraform + GitHub Actions for IaC and CI/CD.
 
 Check out my [website portfolio!](https://davjhkim.com/)
 
