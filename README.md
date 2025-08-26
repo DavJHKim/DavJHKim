@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋 I'm David Kim</h1>
+<h1 align="center">Hi 👋 I'm David Kim
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+</h1>
 
 # 💫 About Me:
 I am a Data Science + Economics Alumni @ UC Berkeley, passionate about exploring the realms of coding with a focus on building scalable systems that solve real-world problems and create meaningful social impact.
@@ -12,8 +14,7 @@ Check out my [website portfolio!](https://davjhkim.com/)
 
 # 🖌️ Tools I'm confident in using:
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
+  <i class="devicon-python-plain"></i>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
