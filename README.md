@@ -2,17 +2,17 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </h1>
 
-# 💫 About Me:
-I am a Data Science + Economics Alumni @ UC Berkeley, passionate about exploring the realms of coding with a focus on building scalable systems that solve real-world problems and create meaningful social impact.
+## 💫 About Me:
+I am a Data Science + Economics Alumni @ UC Berkeley, passionate in exploring the realms of coding with a focus on building scalable systems that solve real-world problems and create meaningful social impact.
 
 ## 🚀 What I'm Up To
 
-- 🚀 Building 
-- 💻  I recently moved my portfolio to AWS using HTML, CSS, and JavaScript, integrated a visitor counter with DynamoDB, API Gateway, and Lambda in Python, and followed best practices in IaC and CI/CD pipelines with GitHub Actions.
+- 📚 Learning deeply about VCSs and working towards AWS Certified Cloud Practitioner Certificate
+- 💻  I recently moved my portfolio to AWS using HTML, CSS, and JavaScript, integrated a visitor counter with DynamoDB, API Gateway, and Lambda in Python, and followed best practices in IaC with Terraform and CI/CD pipelines with GitHub Actions.
 
 Check out my [website portfolio!](https://davjhkim.com/)
 
-# 🖌️ Tools I'm confident in using:
+## 🖌️ Tools I'm confident with:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
