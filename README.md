@@ -36,4 +36,6 @@ Check out my [website portfolio!](https://davjhkim.com/)
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tmux/tmux-original.svg" height="40" alt="tmux logo"  />
+  <img width="12" />
 </div>
